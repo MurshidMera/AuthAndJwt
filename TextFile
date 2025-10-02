@@ -1,1 +1,9 @@
 Created The Repository
+Step for First committ
+git init
+git status => it shows on branch master
+git add .
+git commit -m "Initial commit"
+git remote add origin <repository_url>  # only if not added yet
+git push 
+
